@@ -63,7 +63,7 @@
     },
     "recommended": true,
     "pricePerPerson": 5500,
-    "images": ["rameswaram-temple.png", "pamban-bridge.png"]
+    "images": ["pamban-bridge.png", "rameswaram-temple.png"]
   },
   {
     "id": 4,
@@ -149,7 +149,7 @@
     },
     "recommended": true,
     "pricePerPerson": 55000,
-    "images": ["dubai.png", "burj-khalifa.png"]
+    "images": ["burj-khalifa.png", "dubai.png"]
   },
   {
     "id": 8,

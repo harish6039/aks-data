@@ -39,7 +39,7 @@
         "Gandhi Memorial Museum"
       ]
     },
-    "recommended": true,
+    "recommended": false,
     "pricePerPerson": 1800,
     "images": ["madurai-temple.png", "madurai-temple1.png"]
   },

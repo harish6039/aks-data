@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Ooty & Coonoor Hill Trip",
-    "category": ["family", "group", "honeymoon", "domestic"],
+    "category": ["family", "group", "honeymoon", "local"],
     "shortDescription": "3 days hill station trip with sightseeing and stay.",
     "fullDescription": "Enjoy cool climate, tea estates and scenic viewpoints in Ooty and Coonoor with comfortable hotel stay and guided sightseeing.",
     "details": {
@@ -25,7 +25,7 @@
   {
     "id": 2,
     "title": "Madurai Temple Darshan",
-    "category": ["devotional", "1-day", "domestic"],
+    "category": ["devotional", "1-day", "local"],
     "shortDescription": "One day spiritual trip with meals included.",
     "fullDescription": "Visit famous temples in Madurai with arranged darshan and comfortable travel from Sivaganga.",
     "details": {
@@ -46,7 +46,7 @@
   {
     "id": 3,
     "title": "Rameswaram Devotional Tour",
-    "category": ["devotional", "family", "2-day", "domestic"],
+    "category": ["devotional", "family", "2-day", "local"],
     "shortDescription": "2 days temple tour with hotel stay.",
     "fullDescription": "Spiritual journey to Rameswaram covering major temples and sacred places with stay and meals included.",
     "details": {
@@ -68,7 +68,7 @@
   {
     "id": 4,
     "title": "Kanyakumari Sunrise Trip",
-    "category": ["family", "group", "1-day", "domestic"],
+    "category": ["family", "group", "1-day", "local"],
     "shortDescription": "One day sunrise trip with sightseeing.",
     "fullDescription": "Witness beautiful sunrise and visit famous monuments in Kanyakumari.",
     "details": {
@@ -90,7 +90,7 @@
   {
     "id": 5,
     "title": "Kolli Hills Adventure",
-    "category": ["college-iv", "group", "2-day", "domestic"],
+    "category": ["college-iv", "group", "2-day", "local"],
     "shortDescription": "2 days adventure and trekking trip.",
     "fullDescription": "Enjoy trekking, waterfalls and scenic mountain views in Kolli Hills.",
     "details": {
@@ -111,7 +111,7 @@
   {
     "id": 6,
     "title": "Thanjavur Heritage Tour",
-    "category": ["family", "devotional", "2-day", "domestic"],
+    "category": ["family", "devotional", "2-day", "local"],
     "shortDescription": "Temple and cultural heritage experience.",
     "fullDescription": "Explore historic temples and cultural landmarks in Thanjavur.",
     "details": {
@@ -172,5 +172,30 @@
     "recommended": false,
     "pricePerPerson": 72000,
     "images": ["singapore.png", "marina-bay.png"]
-  }
+  },
+  {
+  "id": 9,
+  "title": "Munnar & Thekkady Hill Station Tour",
+  "category": ["family", "Outstation", "2-day"],
+  "shortDescription": "Enjoy a refreshing 2-day trip to Munnar and Thekkady from Tamil Nadu.",
+  "fullDescription": "Experience the beauty of Kerala's hill stations with this 2-day outstation tour. Visit tea plantations, waterfalls, wildlife sanctuaries, and enjoy a peaceful stay in the hills.",
+  "details": {
+    "days": 2,
+    "nights": 1,
+    "stay": ["3-Star Hotel in Munnar"],
+    "food": ["Breakfast", "Dinner"],
+    "places": [
+      "Munnar Tea Gardens",
+      "Mattupetty Dam",
+      "Echo Point",
+      "Thekkady Wildlife Sanctuary"
+    ]
+  },
+  "recommended": true,
+  "pricePerPerson": 6500,
+  "images": [
+    "munnar.jpg",
+    "thekkady.jpg"
+  ]
+}
 ]

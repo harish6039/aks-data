@@ -1,185 +1,168 @@
 [
   {
-    "id": 1,
+    "id": "ooty-coonoor-hill-trip",
     "title": "Ooty & Coonoor Hill Trip",
     "category": ["family", "group", "honeymoon", "local"],
     "shortDescription": "3 days hill station trip with sightseeing and stay.",
     "fullDescription": "Enjoy cool climate, tea estates and scenic viewpoints in Ooty and Coonoor with comfortable hotel stay and guided sightseeing.",
-    "details": {
-      "days": 3,
-      "nights": 2,
-      "stay": ["3 Star Hotel Stay (2 Nights)"],
-      "food": ["Day 1 Dinner", "Day 2 Breakfast & Dinner", "Day 3 Breakfast"],
-      "places": [
-        "Ooty Lake",
-        "Doddabetta Peak",
-        "Botanical Garden",
-        "Coonoor Tea Estate",
-        "Sims Park"
-      ]
-    },
+    "days": 3,
+    "nights": 2,
+    "stay": ["3 Star Hotel Stay (2 Nights)"],
+    "food": ["Day 1 Dinner", "Day 2 Breakfast & Dinner", "Day 3 Breakfast"],
+    "places": [
+      "Ooty Lake",
+      "Doddabetta Peak",
+      "Botanical Garden",
+      "Coonoor Tea Estate",
+      "Sims Park"
+    ],
     "recommended": true,
     "pricePerPerson": 9500,
-    "images": ["ooty.jpg", "coonoor.png", "tea-estate.png"]
+    "images": ["ooty.webp", "coonoor.webp", "tea-estate.webp"]
   },
   {
-    "id": 2,
+    "id": "madurai-temple-darshan",
     "title": "Madurai Temple Darshan",
     "category": ["devotional", "1-day", "local"],
     "shortDescription": "One day spiritual trip with meals included.",
     "fullDescription": "Visit famous temples in Madurai with arranged darshan and comfortable travel from Sivaganga.",
-    "details": {
-      "days": 1,
-      "nights": 0,
-      "stay": [],
-      "food": ["2 Meals (Breakfast & Lunch)"],
-      "places": [
-        "Meenakshi Amman Temple",
-        "Thirumalai Nayakkar Palace",
-        "Gandhi Memorial Museum"
-      ]
-    },
+    "days": 1,
+    "nights": 0,
+    "stay": [],
+    "food": ["2 Meals (Breakfast & Lunch)"],
+    "places": [
+      "Meenakshi Amman Temple",
+      "Thirumalai Nayakkar Palace",
+      "Gandhi Memorial Museum"
+    ],
     "recommended": false,
     "pricePerPerson": 1800,
-    "images": ["madurai-temple.png", "madurai-temple1.png"]
+    "images": ["madurai-temple.webp", "madurai-temple1.webp"]
   },
   {
-    "id": 3,
+    "id": "rameswaram-devotional-tour",
     "title": "Rameswaram Devotional Tour",
-    "category": ["devotional", "family", "2-day", "local"],
+    "category": ["devotional", "family", "local"],
     "shortDescription": "2 days temple tour with hotel stay.",
     "fullDescription": "Spiritual journey to Rameswaram covering major temples and sacred places with stay and meals included.",
-    "details": {
-      "days": 2,
-      "nights": 1,
-      "stay": ["Hotel Stay (1 Night)"],
-      "food": ["Day 1 Lunch & Dinner", "Day 2 Breakfast"],
-      "places": [
-        "Ramanathaswamy Temple",
-        "Agni Theertham",
-        "Pamban Bridge",
-        "Dhanushkodi Beach"
-      ]
-    },
+    "days": 2,
+    "nights": 1,
+    "stay": ["Hotel Stay (1 Night)"],
+    "food": ["Day 1 Lunch & Dinner", "Day 2 Breakfast"],
+    "places": [
+      "Ramanathaswamy Temple",
+      "Agni Theertham",
+      "Pamban Bridge",
+      "Dhanushkodi Beach"
+    ],
     "recommended": true,
     "pricePerPerson": 5500,
-    "images": ["pamban-bridge.png", "rameswaram-temple.png"]
+    "images": ["pamban-bridge.webp", "rameswaram-temple.webp"]
   },
   {
-    "id": 4,
+    "id": "kanyakumari-sunrise-trip",
     "title": "Kanyakumari Sunrise Trip",
     "category": ["family", "group", "1-day", "local"],
     "shortDescription": "One day sunrise trip with sightseeing.",
     "fullDescription": "Witness beautiful sunrise and visit famous monuments in Kanyakumari.",
-    "details": {
-      "days": 1,
-      "nights": 0,
-      "stay": [],
-      "food": ["2 Meals (Breakfast & Lunch)"],
-      "places": [
-        "Vivekananda Rock Memorial",
-        "Thiruvalluvar Statue",
-        "Kanyakumari Beach",
-        "Sunrise View Point"
-      ]
-    },
+    "days": 1,
+    "nights": 0,
+    "stay": [],
+    "food": ["2 Meals (Breakfast & Lunch)"],
+    "places": [
+      "Vivekananda Rock Memorial",
+      "Thiruvalluvar Statue",
+      "Kanyakumari Beach",
+      "Sunrise View Point"
+    ],
     "recommended": false,
     "pricePerPerson": 2000,
-    "images": ["kanyakumari.png", "vivekananda-rock.png"]
+    "images": ["kanyakumari.webp", "vivekananda-rock.webp"]
   },
   {
-    "id": 5,
+    "id": "kolli-hills-adventure",
     "title": "Kolli Hills Adventure",
-    "category": ["college-iv", "group", "2-day", "local"],
+    "category": ["college-iv", "group", "local"],
     "shortDescription": "2 days adventure and trekking trip.",
     "fullDescription": "Enjoy trekking, waterfalls and scenic mountain views in Kolli Hills.",
-    "details": {
-      "days": 2,
-      "nights": 1,
-      "stay": ["Hotel Stay (1 Night)"],
-      "food": ["Day 1 Dinner", "Day 2 Breakfast"],
-      "places": [
-        "Agaya Gangai Waterfalls",
-        "Seeku Parai View Point",
-        "Arapaleeswarar Temple"
-      ]
-    },
+    "days": 2,
+    "nights": 1,
+    "stay": ["Hotel Stay (1 Night)"],
+    "food": ["Day 1 Dinner", "Day 2 Breakfast"],
+    "places": [
+      "Agaya Gangai Waterfalls",
+      "Seeku Parai View Point",
+      "Arapaleeswarar Temple"
+    ],
     "recommended": false,
     "pricePerPerson": 6800,
-    "images": ["kolli-hills.png", "waterfall-trekking.png"]
+    "images": ["kolli-hills.webp", "waterfall-trekking.webp"]
   },
   {
-    "id": 6,
+    "id": "thanjavur-heritage-tour",
     "title": "Thanjavur Heritage Tour",
-    "category": ["family", "devotional", "2-day", "local"],
+    "category": ["family", "devotional", "local"],
     "shortDescription": "Temple and cultural heritage experience.",
     "fullDescription": "Explore historic temples and cultural landmarks in Thanjavur.",
-    "details": {
-      "days": 2,
-      "nights": 1,
-      "stay": ["Hotel Stay (1 Night)"],
-      "food": ["Day 1 Lunch & Dinner", "Day 2 Breakfast"],
-      "places": [
-        "Brihadeeswarar Temple",
-        "Thanjavur Palace",
-        "Saraswathi Mahal Library"
-      ]
-    },
+    "days": 2,
+    "nights": 1,
+    "stay": ["Hotel Stay (1 Night)"],
+    "food": ["Day 1 Lunch & Dinner", "Day 2 Breakfast"],
+    "places": [
+      "Brihadeeswarar Temple",
+      "Thanjavur Palace",
+      "Saraswathi Mahal Library"
+    ],
     "recommended": false,
     "pricePerPerson": 6000,
-    "images": ["thanjavur-temple.png", "brihadeeswarar-temple.png"]
+    "images": ["thanjavur-temple.webp", "brihadeeswarar-temple.webp"]
   },
   {
-    "id": 7,
+    "id": "dubai-luxury-tour",
     "title": "Dubai Luxury Tour",
     "category": ["family", "honeymoon", "international"],
     "shortDescription": "4 days luxury international trip.",
     "fullDescription": "Explore Dubai with desert safari, shopping and famous skyscrapers.",
-    "details": {
-      "days": 4,
-      "nights": 3,
-      "stay": ["4 Star Hotel Stay (3 Nights)"],
-      "food": ["Daily Breakfast"],
-      "places": [
-        "Burj Khalifa",
-        "Desert Safari",
-        "Dubai Marina",
-        "Palm Jumeirah"
-      ]
-    },
+    "days": 4,
+    "nights": 3,
+    "stay": ["4 Star Hotel Stay (3 Nights)"],
+    "food": ["Daily Breakfast"],
+    "places": [
+      "Burj Khalifa",
+      "Desert Safari",
+      "Dubai Marina",
+      "Palm Jumeirah"
+    ],
     "recommended": true,
     "pricePerPerson": 55000,
-    "images": ["burj-khalifa.png", "dubai.png"]
+    "images": ["burj-khalifa.webp", "dubai.webp"]
   },
   {
-    "id": 8,
+    "id": "singapore-family-vacation",
     "title": "Singapore Family Vacation",
     "category": ["family", "international"],
-    "shortDescription": "5 days international family vacation.",
+    "shortDescription": "3 days international family vacation.",
     "fullDescription": "Visit Universal Studios, Sentosa Island and major attractions in Singapore.",
-    "details": {
-      "days": 5,
-      "nights": 4,
-      "stay": ["3 Star Hotel Stay (4 Nights)"],
-      "food": ["Daily Breakfast"],
-      "places": [
-        "Universal Studios",
-        "Sentosa Island",
-        "Marina Bay Sands",
-        "Merlion Park"
-      ]
-    },
+    "days": 3,
+    "nights": 2,
+    "stay": ["3 Star Hotel Stay (2 Nights)"],
+    "food": ["Daily Breakfast"],
+    "places": [
+      "Universal Studios",
+      "Sentosa Island",
+      "Marina Bay Sands",
+      "Merlion Park"
+    ],
     "recommended": false,
     "pricePerPerson": 72000,
-    "images": ["singapore.png", "marina-bay.png"]
+    "images": ["singapore.webp", "marina-bay.webp"]
   },
   {
-  "id": 9,
-  "title": "Munnar & Thekkady Hill Station Tour",
-  "category": ["family", "Outstation", "2-day"],
-  "shortDescription": "Enjoy a refreshing 2-day trip to Munnar and Thekkady from Tamil Nadu.",
-  "fullDescription": "Experience the beauty of Kerala's hill stations with this 2-day outstation tour. Visit tea plantations, waterfalls, wildlife sanctuaries, and enjoy a peaceful stay in the hills.",
-  "details": {
+    "id": "munnar-thekkady-hill-station-tour",
+    "title": "Munnar & Thekkady Hill Station Tour",
+    "category": ["family", "Outstation"],
+    "shortDescription": "Enjoy a refreshing 2-day trip to Munnar and Thekkady from Tamil Nadu.",
+    "fullDescription": "Experience the beauty of Kerala's hill stations with this 2-day outstation tour. Visit tea plantations, waterfalls, wildlife sanctuaries, and enjoy a peaceful stay in the hills.",
     "days": 2,
     "nights": 1,
     "stay": ["3-Star Hotel in Munnar"],
@@ -189,13 +172,79 @@
       "Mattupetty Dam",
       "Echo Point",
       "Thekkady Wildlife Sanctuary"
-    ]
+    ],
+    "recommended": true,
+    "pricePerPerson": 6500,
+    "images": ["munnar.webp", "thekkady.webp"]
   },
-  "recommended": true,
-  "pricePerPerson": 6500,
-  "images": [
-    "munnar.jpg",
-    "thekkady.jpg"
-  ]
-}
+  {
+    "id": "palani-package",
+    "title": "Palani Package",
+    "category": ["devotional", "1-day", "local"],
+    "shortDescription": "One day devotional trip to Palani.",
+    "fullDescription": "Visit Palani Murugan Hill Temple, Thiru Avinankudi Temple, Idumban Temple and Shanmuga Nathi with food included.",
+    "days": 1,
+    "nights": 0,
+    "stay": [],
+    "food": ["Food Included"],
+    "places": [
+      "Palani Murugan Hill Temple",
+      "Thiru Avinankudi Temple",
+      "Idumban Temple",
+      "Shanmuga Nathi"
+    ],
+    "recommended": false,
+    "pricePerPerson": 1699,
+    "images": ["palani-murugan.webp", "idumban-malai.webp"]
+  },
+  {
+    "id": "thiruchendur-package",
+    "title": "Thiruchendur Package",
+    "category": ["devotional", "1-day", "local"],
+    "shortDescription": "One day trip to Thiruchendur with temple and beach visit.",
+    "fullDescription": "Visit Thiruchendur Murugan Temple, Naazhi Kinaru (Holy Well), local beach and Manapad Beach (customizable). Food included.",
+    "days": 1,
+    "nights": 0,
+    "stay": [],
+    "food": ["Food Included"],
+    "places": [
+      "Thiruchendur Murugan Temple",
+      "Naazhi Kinaru (Holy Well)",
+      "Local Beach",
+      "Manapad Beach"
+    ],
+    "recommended": false,
+    "pricePerPerson": 1999,
+    "images": ["thiruchendur-murugan-temple.webp", "manapad-beach.webp"]
+  },
+  {
+    "id": "megamalai-package",
+    "title": "Megamalai Package",
+    "category": ["family", "1-day", "local"],
+    "shortDescription": "One day sightseeing trip to Megamalai.",
+    "fullDescription": "Explore Megamalai hills, Vaigai Dam and Suruli Falls with food included.",
+    "days": 1,
+    "nights": 0,
+    "stay": [],
+    "food": ["Food Included"],
+    "places": ["Megamalai", "Vaigai Dam", "Suruli Falls"],
+    "recommended": false,
+    "pricePerPerson": 1499,
+    "images": ["megamalai.webp", "vaiga-dam.webp", "suruli-falls.webp"]
+  },
+  {
+    "id": "kerala-package",
+    "title": "Kerala Package",
+    "category": ["family", "outstation"],
+    "shortDescription": "3 days 2 nights Kerala trip.",
+    "fullDescription": "Enjoy Munnar sightseeing, Alappuzha Boat House experience and Varkala beach visit with food included.",
+    "days": 3,
+    "nights": 2,
+    "stay": ["Hotel Stay (2 Nights)"],
+    "food": ["Food Included"],
+    "places": ["Munnar Sightseeing", "Alappuzha Boat House", "Varkala"],
+    "recommended": false,
+    "pricePerPerson": 9999,
+    "images": ["alappuzha-boat-house.webp", "varkala.webp", "munnar.webp"]
+  }
 ]
